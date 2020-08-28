@@ -2,3 +2,12 @@ html
 {
     background: #9cbfd6 !important;
 }
+
+#hero-body1 {
+    width: auto;
+    padding: 20px 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30vh;
+}
+
